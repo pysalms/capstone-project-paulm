@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.project.staragile</groupId>
-	<artifactId>capstone-project</artifactId>
+	<artifactId>insure-me</artifactId>
 	<version>1.0</version> 
-	<name>Capstone-project</name>
+	<name>Insure-me</name>
 	<description>Industry ready project on based on Insurance Domain</description>
 	<properties>
     <maven.compiler.source>1.8</maven.compiler.source>
