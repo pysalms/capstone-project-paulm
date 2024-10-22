@@ -11,6 +11,6 @@
   - name: start docker service
     command: sudo systemctl start docker
 
-  - name: deploy insureme application
+  - name: deploy capstone-project application
     command: sudo docker run -itd -p 8081:8081 pysalms/capstone-project:1.0
   
